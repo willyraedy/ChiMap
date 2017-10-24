@@ -5,10 +5,11 @@ const fs = require('fs');
 const getChiHomicideData = require('./getChiHomicideData');
 
 describe('Get Chicago Homicides', () => {
-  test('returns an object', () => {
+  test('returns an object', (done) => {
     getChiHomicideData('./willys_corner/testCrimeData.json')
       .then(output => {
         expect(typeof output).toBe('object');
+        done();
       })
       .catch(err => {
         console.error(err);
@@ -27,7 +28,7 @@ describe('Get Chicago Homicides', () => {
         .then(output => {
           expect(typeof output).toBe('object');
           expect(output).toEqual(results);
-          done()
+          done();
         })
         .catch(err => {
           console.error(err);
