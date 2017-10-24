@@ -1,310 +1,310 @@
 {
 	"1": {
 		"name": "Rogers Park",
-		"population": 1
+		"population": 54991
 	},
 	"2": {
 		"name": "West Ridge",
-		"population": 2
+		"population": 71942
 	},
 	"3": {
 		"name": "Uptown",
-		"population": 3
+		"population": 56362
 	},
 	"4": {
 		"name": "Lincoln Square",
-		"population": 4
+		"population": 39493
 	},
 	"5": {
 		"name": "North Center",
-		"population": 5
+		"population": 31867
 	},
 	"6": {
 		"name": "Lake View",
-		"population": 6
+		"population": 94368
 	},
 	"7": {
 		"name": "Lincoln Park",
-		"population": 7
+		"population": 64116
 	},
 	"8": {
 		"name": "Near North Side",
-		"population": 8
+		"population": 80484
 	},
 	"9": {
 		"name": "Edison Park",
-		"population": 9
+		"population": 11187
 	},
 	"10": {
 		"name": "Norwood Park",
-		"population": 10
+		"population": 37023
 	},
 	"11": {
 		"name": "Jefferson Park",
-		"population": 11
+		"population": 25448
 	},
 	"12": {
 		"name": "Forest Glen",
-		"population": 12
+		"population": 18508
 	},
 	"13": {
 		"name": "North Park",
-		"population": 13
+		"population": 17931
 	},
 	"14": {
 		"name": "Albany Park",
-		"population": 14
+		"population": 51542
 	},
 	"15": {
 		"name": "Portage Park",
-		"population": 15
+		"population": 64124
 	},
 	"16": {
 		"name": "Irving Park",
-		"population": 16
+		"population": 53359
 	},
 	"17": {
 		"name": "Dunning",
-		"population": 17
+		"population": 41932
 	},
 	"18": {
 		"name": "Montclare",
-		"population": 18
+		"population": 13426
 	},
 	"19": {
 		"name": "Belmont Cragin",
-		"population": 19
+		"population": 78743
 	},
 	"20": {
 		"name": "Hermosa",
-		"population": 20
+		"population": 25010
 	},
 	"21": {
 		"name": "Avondale",
-		"population": 21
+		"population": 39262
 	},
 	"22": {
 		"name": "Logan Square",
-		"population": 22
+		"population": 72791
 	},
 	"23": {
 		"name": "Humboldt Park",
-		"population": 23
+		"population": 56323
 	},
 	"24": {
 		"name": "West Town",
-		"population": 24
+		"population": 82236
 	},
 	"25": {
 		"name": "Austin",
-		"population": 25
+		"population": 98514
 	},
 	"26": {
 		"name": "West Garfield Park",
-		"population": 26
+		"population": 18001
 	},
 	"27": {
 		"name": "East Garfield Park",
-		"population": 27
+		"population": 20567
 	},
 	"28": {
 		"name": "Near West Side",
-		"population": 28
+		"population": 54881
 	},
 	"29": {
 		"name": "North Lawndale",
-		"population": 29
+		"population": 35912
 	},
 	"30": {
 		"name": "South Lawndale",
-		"population": 30
+		"population": 79288
 	},
 	"31": {
 		"name": "Lower West Side",
-		"population": 31
+		"population": 35769
 	},
 	"32": {
 		"name": "The Loop",
-		"population": 32
+		"population": 29283
 	},
 	"33": {
 		"name": "Near South Side",
-		"population": 33
+		"population": 21390
 	},
 	"34": {
 		"name": "Armour Square",
-		"population": 34
+		"population": 13391
 	},
 	"35": {
 		"name": "Douglas",
-		"population": 35
+		"population": 18238
 	},
 	"36": {
 		"name": "Oakland",
-		"population": 36
+		"population": 5918
 	},
 	"37": {
 		"name": "Fuller Park",
-		"population": 37
+		"population": 2876
 	},
 	"38": {
 		"name": "Grand Boulevard",
-		"population": 38
+		"population": 21929
 	},
 	"39": {
 		"name": "Kenwood",
-		"population": 39
+		"population": 17841
 	},
 	"40": {
 		"name": "Washington Park",
-		"population": 40
+		"population": 11717
 	},
 	"41": {
 		"name": "Hyde Park",
-		"population": 41
+		"population": 25681
 	},
 	"42": {
 		"name": "Woodlawn",
-		"population": 42
+		"population": 23740
 	},
 	"43": {
 		"name": "South Shore",
-		"population": 43
+		"population": 52010
 	},
 	"44": {
 		"name": "Chatham",
-		"population": 44
+		"population": 31028
 	},
 	"45": {
 		"name": "Avalon Park",
-		"population": 45
+		"population": 10185
 	},
 	"46": {
 		"name": "South Chicago",
-		"population": 46
+		"population": 31198
 	},
 	"47": {
 		"name": "Burnside",
-		"population": 47
+		"population": 2916
 	},
 	"48": {
 		"name": "Calumet Heights",
-		"population": 48
+		"population": 13812
 	},
 	"49": {
 		"name": "Roseland",
-		"population": 49
+		"population": 44619
 	},
 	"50": {
 		"name": "Pullman",
-		"population": 50
+		"population": 7325
 	},
 	"51": {
 		"name": "South Deering",
-		"population": 51
+		"population": 15109
 	},
 	"52": {
 		"name": "East Side",
-		"population": 52
+		"population": 23042
 	},
 	"53": {
 		"name": "West Pullman",
-		"population": 53
+		"population": 29651
 	},
 	"54": {
 		"name": "Riverdale",
-		"population": 54
+		"population": 6482
 	},
 	"55": {
 		"name": "Hegewisch",
-		"population": 55
+		"population": 9426
 	},
 	"56": {
 		"name": "Garfield Ridge",
-		"population": 56
+		"population": 34513
 	},
 	"57": {
 		"name": "Archer Heights",
-		"population": 57
+		"population": 13393
 	},
 	"58": {
 		"name": "Brighton Park",
-		"population": 58
+		"population": 45368
 	},
 	"59": {
 		"name": "McKinley Park",
-		"population": 59
+		"population": 15612
 	},
 	"60": {
 		"name": "Bridgeport",
-		"population": 60
+		"population": 31977
 	},
 	"61": {
 		"name": "New City",
-		"population": 61
+		"population": 44377
 	},
 	"62": {
 		"name": "West Elsdon",
-		"population": 62
+		"population": 18109
 	},
 	"63": {
 		"name": "Gage Park",
-		"population": 63
+		"population": 39894
 	},
 	"64": {
 		"name": "Clearing",
-		"population": 64
+		"population": 23139
 	},
 	"65": {
 		"name": "West Lawn",
-		"population": 65
+		"population": 33355
 	},
 	"66": {
 		"name": "Chicago Lawn",
-		"population": 66
+		"population": 55628
 	},
 	"67": {
 		"name": "West Englewood",
-		"population": 67
+		"population": 35505
 	},
 	"68": {
 		"name": "Englewood",
-		"population": 68
+		"population": 30654
 	},
 	"69": {
 		"name": "Greater Grand Crossing",
-		"population": 69
+		"population": 32602
 	},
 	"70": {
 		"name": "Ashburn",
-		"population": 70
+		"population": 41081
 	},
 	"71": {
 		"name": "Auburn Gresham",
-		"population": 71
+		"population": 48743
 	},
 	"72": {
 		"name": "Beverly",
-		"population": 72
+		"population": 20034
 	},
 	"73": {
 		"name": "Washington Heights",
-		"population": 73
+		"population": 26493
 	},
 	"74": {
 		"name": "Mount Greenwood",
-		"population": 74
+		"population": 19093
 	},
 	"75": {
 		"name": "Morgan Park",
-		"population": 75
+		"population": 22544
 	},
 	"76": {
 		"name": "O'Hare",
-		"population": 76
+		"population": 12756
 	},
 	"77": {
 		"name": "Edgewater",
-		"population": 77
+		"population": 56521
 	}
 }
