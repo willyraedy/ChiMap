@@ -1,0 +1,14 @@
+{
+  "name": "api_vc.ihr.psrc.p5_ds2_en_csv_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conversion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camden <camdenko@gmail.com> (camdenko.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^2.0.0"
+  }
+}
