@@ -1,0 +1,310 @@
+{
+	"1": {
+		"name": "Rogers Park",
+		"population": 1
+	},
+	"2": {
+		"name": "West Ridge",
+		"population": 2
+	},
+	"3": {
+		"name": "Uptown",
+		"population": 3
+	},
+	"4": {
+		"name": "Lincoln Square",
+		"population": 4
+	},
+	"5": {
+		"name": "North Center",
+		"population": 5
+	},
+	"6": {
+		"name": "Lake View",
+		"population": 6
+	},
+	"7": {
+		"name": "Lincoln Park",
+		"population": 7
+	},
+	"8": {
+		"name": "Near North Side",
+		"population": 8
+	},
+	"9": {
+		"name": "Edison Park",
+		"population": 9
+	},
+	"10": {
+		"name": "Norwood Park",
+		"population": 10
+	},
+	"11": {
+		"name": "Jefferson Park",
+		"population": 11
+	},
+	"12": {
+		"name": "Forest Glen",
+		"population": 12
+	},
+	"13": {
+		"name": "North Park",
+		"population": 13
+	},
+	"14": {
+		"name": "Albany Park",
+		"population": 14
+	},
+	"15": {
+		"name": "Portage Park",
+		"population": 15
+	},
+	"16": {
+		"name": "Irving Park",
+		"population": 16
+	},
+	"17": {
+		"name": "Dunning",
+		"population": 17
+	},
+	"18": {
+		"name": "Montclare",
+		"population": 18
+	},
+	"19": {
+		"name": "Belmont Cragin",
+		"population": 19
+	},
+	"20": {
+		"name": "Hermosa",
+		"population": 20
+	},
+	"21": {
+		"name": "Avondale",
+		"population": 21
+	},
+	"22": {
+		"name": "Logan Square",
+		"population": 22
+	},
+	"23": {
+		"name": "Humboldt Park",
+		"population": 23
+	},
+	"24": {
+		"name": "West Town",
+		"population": 24
+	},
+	"25": {
+		"name": "Austin",
+		"population": 25
+	},
+	"26": {
+		"name": "West Garfield Park",
+		"population": 26
+	},
+	"27": {
+		"name": "East Garfield Park",
+		"population": 27
+	},
+	"28": {
+		"name": "Near West Side",
+		"population": 28
+	},
+	"29": {
+		"name": "North Lawndale",
+		"population": 29
+	},
+	"30": {
+		"name": "South Lawndale",
+		"population": 30
+	},
+	"31": {
+		"name": "Lower West Side",
+		"population": 31
+	},
+	"32": {
+		"name": "The Loop",
+		"population": 32
+	},
+	"33": {
+		"name": "Near South Side",
+		"population": 33
+	},
+	"34": {
+		"name": "Armour Square",
+		"population": 34
+	},
+	"35": {
+		"name": "Douglas",
+		"population": 35
+	},
+	"36": {
+		"name": "Oakland",
+		"population": 36
+	},
+	"37": {
+		"name": "Fuller Park",
+		"population": 37
+	},
+	"38": {
+		"name": "Grand Boulevard",
+		"population": 38
+	},
+	"39": {
+		"name": "Kenwood",
+		"population": 39
+	},
+	"40": {
+		"name": "Washington Park",
+		"population": 40
+	},
+	"41": {
+		"name": "Hyde Park",
+		"population": 41
+	},
+	"42": {
+		"name": "Woodlawn",
+		"population": 42
+	},
+	"43": {
+		"name": "South Shore",
+		"population": 43
+	},
+	"44": {
+		"name": "Chatham",
+		"population": 44
+	},
+	"45": {
+		"name": "Avalon Park",
+		"population": 45
+	},
+	"46": {
+		"name": "South Chicago",
+		"population": 46
+	},
+	"47": {
+		"name": "Burnside",
+		"population": 47
+	},
+	"48": {
+		"name": "Calumet Heights",
+		"population": 48
+	},
+	"49": {
+		"name": "Roseland",
+		"population": 49
+	},
+	"50": {
+		"name": "Pullman",
+		"population": 50
+	},
+	"51": {
+		"name": "South Deering",
+		"population": 51
+	},
+	"52": {
+		"name": "East Side",
+		"population": 52
+	},
+	"53": {
+		"name": "West Pullman",
+		"population": 53
+	},
+	"54": {
+		"name": "Riverdale",
+		"population": 54
+	},
+	"55": {
+		"name": "Hegewisch",
+		"population": 55
+	},
+	"56": {
+		"name": "Garfield Ridge",
+		"population": 56
+	},
+	"57": {
+		"name": "Archer Heights",
+		"population": 57
+	},
+	"58": {
+		"name": "Brighton Park",
+		"population": 58
+	},
+	"59": {
+		"name": "McKinley Park",
+		"population": 59
+	},
+	"60": {
+		"name": "Bridgeport",
+		"population": 60
+	},
+	"61": {
+		"name": "New City",
+		"population": 61
+	},
+	"62": {
+		"name": "West Elsdon",
+		"population": 62
+	},
+	"63": {
+		"name": "Gage Park",
+		"population": 63
+	},
+	"64": {
+		"name": "Clearing",
+		"population": 64
+	},
+	"65": {
+		"name": "West Lawn",
+		"population": 65
+	},
+	"66": {
+		"name": "Chicago Lawn",
+		"population": 66
+	},
+	"67": {
+		"name": "West Englewood",
+		"population": 67
+	},
+	"68": {
+		"name": "Englewood",
+		"population": 68
+	},
+	"69": {
+		"name": "Greater Grand Crossing",
+		"population": 69
+	},
+	"70": {
+		"name": "Ashburn",
+		"population": 70
+	},
+	"71": {
+		"name": "Auburn Gresham",
+		"population": 71
+	},
+	"72": {
+		"name": "Beverly",
+		"population": 72
+	},
+	"73": {
+		"name": "Washington Heights",
+		"population": 73
+	},
+	"74": {
+		"name": "Mount Greenwood",
+		"population": 74
+	},
+	"75": {
+		"name": "Morgan Park",
+		"population": 75
+	},
+	"76": {
+		"name": "O'Hare",
+		"population": 76
+	},
+	"77": {
+		"name": "Edgewater",
+		"population": 77
+	}
+}
