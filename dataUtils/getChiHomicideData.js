@@ -32,3 +32,5 @@ const getChiHomicideData = async (filePath) => {
 }
 
 module.exports = getChiHomicideData;
+
+

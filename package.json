@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build-client": "webpack",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "prettier": {
     "singleQuote": true,
