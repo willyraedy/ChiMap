@@ -16,10 +16,10 @@ const aggregatedChicagoHomicideData = (data) => {
   return aggResults;
 }
 
-const getChiHomicideData = async (filePath) => {
+const readJSON = async (filePath) => {
   let string = '';
   const readable = fs.createReadStream(filePath);
-  readable.on('data', chunk => {
+  readable.on('data', (chunk) => {
     try {
       string += chunk.toString();
     } catch (err) {
@@ -27,8 +27,13 @@ const getChiHomicideData = async (filePath) => {
     }
   });
   await streamToPromise(readable);
-  const data = JSON.parse(string).data;
+  return JSON.parse(string).data;
+}
+
+const getChiHomicideData = async (filePath) => {
+  const data = await readJSON(filePath)
   return aggregatedChicagoHomicideData(data);
 }
+
 
 module.exports = getChiHomicideData;
