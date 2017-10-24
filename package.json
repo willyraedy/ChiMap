@@ -1,0 +1,22 @@
+{
+  "name": "ChiMap",
+  "version": "1.0.0",
+  "description": "Data visualization project",
+  "engines": {
+    "node": ">= 7.0.0"
+  },
+  "scripts": {
+    "build-client": "webpack",
+    "test": "jest"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
